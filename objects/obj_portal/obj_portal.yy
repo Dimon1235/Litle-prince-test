@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_potal",
-    "path": "sprites/spr_potal/spr_potal.yy",
+    "name": "Sprite20",
+    "path": "sprites/Sprite20/Sprite20.yy",
   },
   "solid": false,
   "visible": true,
@@ -9,10 +9,10 @@
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
-  "physicsSensor": true,
+  "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
-  "physicsDensity": 0.0,
+  "physicsDensity": 0.5,
   "physicsRestitution": 0.1,
   "physicsLinearDamping": 0.1,
   "physicsAngularDamping": 0.1,
